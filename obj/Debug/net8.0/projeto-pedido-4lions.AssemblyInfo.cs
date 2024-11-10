@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("projeto-pedido-4lions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82c57146c8fa28ed02a44bbcf2cdeddfbfcdd801")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbe171a8f864b3fc2883a3060763f97b991ef7e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("projeto-pedido-4lions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("projeto-pedido-4lions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
