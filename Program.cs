@@ -10,7 +10,7 @@ namespace projeto_pedido_4lions {
 
             PedidoItem Item1 = new PedidoItem(1, Produto1, 1, Produto1.Valor);
             PedidoItem Item2 = new PedidoItem(2, Produto2, 1, Produto2.Valor);
-            PedidoItem Item3 = new PedidoItem(3, Produto2, 1, Produto3.Valor);
+            PedidoItem Item3 = new PedidoItem(3, Produto3, 1, Produto3.Valor);
 
 
             PedidoCabecalho PedidoCab = new PedidoCabecalho(100, DateTime.Now, ClienteD, (Produto1.Valor + Produto2.Valor + Produto3.Valor));
@@ -18,7 +18,7 @@ namespace projeto_pedido_4lions {
             PedidoCab.AddItem(Item2);
             PedidoCab.AddItem(Item3);
 
-
+            Console.WriteLine(PedidoCab);
 
 
         }

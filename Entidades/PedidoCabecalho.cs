@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -26,6 +27,24 @@ namespace projeto_pedido_4lions.Entidades {
             Itens.Remove(Item);
         }
 
+        public override string ToString() {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("Dados do cliente: ");
+            sb.AppendLine("Id Cliente: " + _Cliente.Id);
+            sb.AppendLine("Nome do cliente: " + _Cliente.Nome);
+            sb.AppendLine("Idade do cliente: " + _Cliente.Idade);
+            sb.AppendLine("Endereço de entrega: ");
+            sb.AppendLine
+                (_Cliente.Logradouro + ", " + _Cliente.Numero + ", " + _Cliente.Municipio + ", " + _Cliente.Uf);
+            sb.AppendLine("Descrição dos itens comprados: ");
+            foreach (PedidoItem P in Itens) {
 
+                sb.AppendLine(P.Sequencia + " - " + P.Produto.Descricao + " - " + P.ValorUnit.ToString("F2",CultureInfo.InvariantCulture));
+            }
+            sb.AppendLine("Id da compra: " + Id);
+            sb.AppendLine("Data da compra: " + Data.ToString("dd/MM/yyyy"));
+            sb.AppendLine("Valor total: " + ValorTotal.ToString("F2",CultureInfo.InvariantCulture));
+            return sb.ToString();
+        }
     }
 }
