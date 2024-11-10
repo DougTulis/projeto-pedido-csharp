@@ -11,7 +11,7 @@ namespace projeto_pedido_4lions.Entidades {
         public string Municipio { get; set; }
         public string Uf { get; set; }
 
-        public Endereco(string logradouro, string logradouro1, int numero, string municipio, string uf) {
+        public Endereco(string logradouro, int numero, string municipio, string uf) {
             Logradouro = logradouro;
             Numero = numero;
             Municipio = municipio;
