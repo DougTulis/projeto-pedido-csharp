@@ -1,0 +1,15 @@
+C:\Users\Família\source\repos\projeto-pedido-4lions\projeto-pedido-4lions\bin\Debug\net8.0\projeto-pedido-4lions.exe
+C:\Users\Família\source\repos\projeto-pedido-4lions\projeto-pedido-4lions\bin\Debug\net8.0\projeto-pedido-4lions.deps.json
+C:\Users\Família\source\repos\projeto-pedido-4lions\projeto-pedido-4lions\bin\Debug\net8.0\projeto-pedido-4lions.runtimeconfig.json
+C:\Users\Família\source\repos\projeto-pedido-4lions\projeto-pedido-4lions\bin\Debug\net8.0\projeto-pedido-4lions.dll
+C:\Users\Família\source\repos\projeto-pedido-4lions\projeto-pedido-4lions\bin\Debug\net8.0\projeto-pedido-4lions.pdb
+C:\Users\Família\source\repos\projeto-pedido-4lions\projeto-pedido-4lions\obj\Debug\net8.0\projeto-pedido-4lions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Família\source\repos\projeto-pedido-4lions\projeto-pedido-4lions\obj\Debug\net8.0\projeto-pedido-4lions.AssemblyInfoInputs.cache
+C:\Users\Família\source\repos\projeto-pedido-4lions\projeto-pedido-4lions\obj\Debug\net8.0\projeto-pedido-4lions.AssemblyInfo.cs
+C:\Users\Família\source\repos\projeto-pedido-4lions\projeto-pedido-4lions\obj\Debug\net8.0\projeto-pedido-4lions.csproj.CoreCompileInputs.cache
+C:\Users\Família\source\repos\projeto-pedido-4lions\projeto-pedido-4lions\obj\Debug\net8.0\projeto-pedido-4lions.sourcelink.json
+C:\Users\Família\source\repos\projeto-pedido-4lions\projeto-pedido-4lions\obj\Debug\net8.0\projeto-pedido-4lions.dll
+C:\Users\Família\source\repos\projeto-pedido-4lions\projeto-pedido-4lions\obj\Debug\net8.0\refint\projeto-pedido-4lions.dll
+C:\Users\Família\source\repos\projeto-pedido-4lions\projeto-pedido-4lions\obj\Debug\net8.0\projeto-pedido-4lions.pdb
+C:\Users\Família\source\repos\projeto-pedido-4lions\projeto-pedido-4lions\obj\Debug\net8.0\projeto-pedido-4lions.genruntimeconfig.cache
+C:\Users\Família\source\repos\projeto-pedido-4lions\projeto-pedido-4lions\obj\Debug\net8.0\ref\projeto-pedido-4lions.dll
